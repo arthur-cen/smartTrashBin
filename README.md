@@ -2,8 +2,12 @@
 
 A new way to sort waste for customers
 
-Team: Arthur Cen, Tim Yan, Varun Yalamanchi
-This is a course project for CMU Course: Design for Smart System(49-733).
+*Team: Arthur Cen, Tim Yan, Varun Yalamanchi*
+
+*This is a course project for CMU Course: Design for Smart System(49-733).*
+
+*Update: 2020-01-30*
+
 
 ## Outline
 - [Overview](https://github.com/arthur-cen/smartTrashBin#Overview)
